@@ -2,6 +2,14 @@
 ADVANCESDJAVA
 ListInterfaceDemo.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/c33dd610fad07acc4711574960ef05bbc86120ef
 
+p1.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/19b14c35656a44433491c7b7a2403363ed54d8e5
+
+
+
+
+
+
+
 StringHandling.JAVA: 
 https://github.com/harshitha-m30/HARSHITHA.M/blob/main/Screenshot%202026-04-18%20230638.png
 https://github.com/harshitha-m30/HARSHITHA.M/blob/main/Screenshot%202026-04-18%20230650.png
