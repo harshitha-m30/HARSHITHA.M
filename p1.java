@@ -1,3 +1,6 @@
+//1. Write a java program for getting different colors through ArrayList interface and search whether
+//the color &quot;Red&quot; is available or not
+
 package linkedList;
 import java.util.*;
 public class p1 {
