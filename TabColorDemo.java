@@ -1,3 +1,6 @@
+//5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and display
+//the concerned color whenever the specific tab is selected in the Pan.
+
 package swingg;
 import javax.swing.*;
 import javax.swing.event.*;
