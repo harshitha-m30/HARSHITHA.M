@@ -20,6 +20,8 @@ p8.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/b827fe30a113ac1c34e
 
 p9.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/c392d880a24cb53d841a34a516296af8a9a1ecab
 
+p10.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/bca536c07df02cf7d3109080bdf4469fae6eae50
+
 
 
 
