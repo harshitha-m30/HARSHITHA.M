@@ -4,6 +4,8 @@ ListInterfaceDemo.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/c33d
 
 p1.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/19b14c35656a44433491c7b7a2403363ed54d8e5
 
+p2.java: https://github.com/harshitha-m30/HARSHITHA.M/commit/197a4d828b1f759be020e5d0eb7308f498dbbf56
+
 
 
 
