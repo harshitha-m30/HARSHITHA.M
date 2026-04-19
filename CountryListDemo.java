@@ -1,3 +1,7 @@
+//5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada, Denmark,
+//France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and display them on console
+//whenever the countries are selected on the list.
+
 package swingg;
 import javax.swing.*;
 import javax.swing.event.*;
